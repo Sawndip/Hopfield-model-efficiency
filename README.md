@@ -1,6 +1,7 @@
 # Hopfield-model-efficiency
 
 Il progetto mira a creare una simulazione di efficienza del network di Hopfield.
+
 Sono disponibili due versioni, la prima eseguibile con ./Neuron 1, la seconda con ./Neuron 2.
 
 La prima permette di creare un grafico con il valore di overlap del sistema con i pattern della memoria, in funzione dei diversi cicli della simulazione.
